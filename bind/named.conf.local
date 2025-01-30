@@ -1,0 +1,4 @@
+zone "matheus_soares.com" {
+    type master;
+    file "/etc/bind/db.matheus_soares.com";
+};
